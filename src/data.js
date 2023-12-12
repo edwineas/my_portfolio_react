@@ -4,25 +4,25 @@ export const projects = [
     subtitle: "JavaScript",
     description:
       "A JavaScript project to calculate EMI",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    image: "./project-1.png",
+    link: "https://edwineas.github.io/EMI-Calculator/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Dice roller",
+    subtitle: "JavaScript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "A JavaScript project to get random dice roller",
+    image: "./project-2.png",
+    link: "https://edwineas.github.io/dice-roller/",
   },
-  // {
-  //   title: "DevChat",
-  //   subtitle: "React and Firebase",
-  //   description:
-  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-  //   image: "./project-3.gif",
-  //   link: "https://reactbootcamp.com",
-  // },
+  {
+    title: "Calculator",
+    subtitle: "JQuery",
+    description:
+      "A JQuery project to implement simple calculator",
+    image: "./project-3.png" ,
+    link: "https://edwineas.github.io/Calculator/",
+  },
   // {
   //   title: "Epic Todo App",
   //   subtitle: "React Hooks",
@@ -52,9 +52,11 @@ export const testimonials = [
 
 export const skills = [
   "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Python",
+  "Java",
+  "C",
+  "Html & CSS",
+  "Bootstrap",
+  "JQuery",
+  "Markdown"
 ];
